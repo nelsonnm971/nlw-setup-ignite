@@ -1,1 +1,2 @@
-# nwl-setup-ignite
+# nlw-setup-ignite
+Habit Tracker App
